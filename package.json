@@ -1,0 +1,96 @@
+{
+  "name": "@eclass/eslint-config",
+  "version": "0.0.1",
+  "description": "eslint shareable config",
+  "main": "src",
+  "scripts": {
+    "start": "node src",
+    "lint": "eslint . --fix",
+    "format": "prettier-standard '{src,test}/**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eclass/eslint-config"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "eclass"
+  ],
+  "engines": {
+    "node": "12.3.1"
+  },
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "bugs": {
+    "url": "https://github.com/eclass/eslint-config/issues"
+  },
+  "homepage": "https://github.com/eclass/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-jsdoc-strict": "^2.0.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-array-func": "^3.1.3",
+    "eslint-plugin-eslint-comments": "^3.1.1",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsdoc": "^5.0.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-sonarjs": "^0.3.0",
+    "eslint-plugin-standard": "^4.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "7.6.1",
+    "@commitlint/config-conventional": "7.6.0",
+    "@semantic-release/changelog": "3.0.2",
+    "@semantic-release/commit-analyzer": "6.1.0",
+    "@semantic-release/git": "7.0.8",
+    "@semantic-release/github": "5.2.10",
+    "@semantic-release/npm": "5.1.9",
+    "@semantic-release/release-notes-generator": "7.1.4",
+    "eslint": "5.16.0",
+    "husky": "2.3.0",
+    "lint-staged": "8.1.7",
+    "prettier-standard": "9.1.1",
+    "semantic-release": "15.13.14"
+  },
+  "peerDependencies": {
+    "eslint": ">=5"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "lint-staged": {
+    "linters": {
+      "{src,test}/**/*.js": [
+        "eslint --fix",
+        "prettier-standard",
+        "git add"
+      ]
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "renovate": {
+    "automerge": "minor",
+    "extends": [
+      "config:js-lib"
+    ]
+  },
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/git",
+      "@semantic-release/github"
+    ]
+  }
+}
