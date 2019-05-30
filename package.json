@@ -4,7 +4,6 @@
   "description": "eslint shareable config",
   "main": "index.js",
   "scripts": {
-    "start": "node src",
     "lint": "eslint . --fix",
     "format": "prettier-standard '{src,test}/**/*.js'"
   },
