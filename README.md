@@ -1,8 +1,9 @@
-# eslint-config
+# @eclass/eslint-config
 
+[![npm](https://img.shields.io/npm/v/@eclass/eslint-config.svg)](https://www.npmjs.com/package/@eclass/eslint-config)
 [![Build Status](https://travis-ci.org/eclass/eslint-config.svg?branch=master)](https://travis-ci.org/eclass/eslint-config)
 
-This package provides eclass eslint shareable config.
+> This package provides eclass eslint shareable config.
 
 ## Plugins and Configuration included
 
@@ -34,3 +35,7 @@ Then add the following configuration to your project's [`package.json`](https://
   "extends": "@eclass"
 }
 ```
+
+## License
+
+[MIT](https://tldrlegal.com/license/mit-license)
