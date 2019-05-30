@@ -77,9 +77,8 @@
     ]
   },
   "renovate": {
-    "automerge": "minor",
     "extends": [
-      "config:js-lib"
+      "@eclass:js-lib"
     ]
   },
   "release": {
