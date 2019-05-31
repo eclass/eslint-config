@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/eclass/eslint-config/compare/v1.0.2...v1.0.3) (2019-05-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-sonarjs to ^0.4.0 ([093aadf](https://github.com/eclass/eslint-config/commit/093aadf))
+
 ## [1.0.2](https://github.com/eclass/eslint-config/compare/v1.0.1...v1.0.2) (2019-05-30)
 
 
