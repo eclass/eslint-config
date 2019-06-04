@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/eclass/eslint-config/compare/v1.0.3...v1.0.4) (2019-06-04)
+
+
+### Bug Fixes
+
+* **rules:** fix "Object" preferredType ([e91af9a](https://github.com/eclass/eslint-config/commit/e91af9a))
+
 ## [1.0.3](https://github.com/eclass/eslint-config/compare/v1.0.2...v1.0.3) (2019-05-31)
 
 
