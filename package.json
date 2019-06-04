@@ -20,6 +20,7 @@
     "node": "12.4.0"
   },
   "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/eclass/eslint-config/issues"
   },
