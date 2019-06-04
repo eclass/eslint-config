@@ -20,6 +20,13 @@ module.exports = {
     'no-console': 'error',
     'require-await': 'error'
   },
+  settings: {
+    jsdoc: {
+      preferredTypes: {
+        object: 'Object'
+      }
+    }
+  },
   globals: {
     PromiseLike: 'readonly'
   }
