@@ -2,6 +2,9 @@
 
 [![npm](https://img.shields.io/npm/v/@eclass/eslint-config.svg)](https://www.npmjs.com/package/@eclass/eslint-config)
 [![Build Status](https://travis-ci.org/eclass/eslint-config.svg?branch=master)](https://travis-ci.org/eclass/eslint-config)
+[![downloads](https://img.shields.io/npm/dt/@eclass/eslint-config.svg)](https://www.npmjs.com/package/@eclass/eslint-config)
+[![dependencies](https://img.shields.io/david/eclass/eslint-config.svg)](https://david-dm.org/eclass/eslint-config)
+[![devDependency Status](https://img.shields.io/david/dev/eclass/eslint-config.svg)](https://david-dm.org/eclass/eslint-config#info=devDependencies)
 
 > This package provides eclass eslint shareable config.
 
