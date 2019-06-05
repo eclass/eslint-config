@@ -28,7 +28,7 @@
 [Install](https://docs.npmjs.com/cli/install) [`eslint`](https://www.npmjs.com/package/eslint) and this package with [npm](https://docs.npmjs.com/about-npm/).
 
 ```
-npm i -D eslint @eclass/eslint-config
+npm i -D eslint @eclass/eslint-config eslint-plugin-{array-func,eslint-comments,import,jsdoc,node,promise,security,sonarjs,standard}
 ```
 
 Then add the following configuration to your project's [`package.json`](https://docs.npmjs.com/files/package.json).
