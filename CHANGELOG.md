@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/eclass/eslint-config/compare/v1.0.4...v1.0.5) (2019-06-05)
+
+
+### Bug Fixes
+
+* **deps:** move eslint plugins to peerDependencies ([11c5030](https://github.com/eclass/eslint-config/commit/11c5030))
+
 ## [1.0.4](https://github.com/eclass/eslint-config/compare/v1.0.3...v1.0.4) (2019-06-04)
 
 
