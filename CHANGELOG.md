@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/eclass/eslint-config/compare/v1.0.5...v1.0.6) (2019-06-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v5 ([fd339d0](https://github.com/eclass/eslint-config/commit/fd339d0))
+
 ## [1.0.5](https://github.com/eclass/eslint-config/compare/v1.0.4...v1.0.5) (2019-06-05)
 
 
