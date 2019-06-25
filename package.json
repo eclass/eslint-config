@@ -52,7 +52,7 @@
     "husky": "2.4.1",
     "lint-staged": "8.2.1",
     "prettier-standard": "9.1.1",
-    "semantic-release": "15.13.16"
+    "semantic-release": "15.13.17"
   },
   "peerDependencies": {
     "eslint": ">=5",
