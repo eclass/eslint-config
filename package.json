@@ -17,7 +17,7 @@
     "eclass"
   ],
   "engines": {
-    "node": "12.5.0"
+    "node": "12.6.0"
   },
   "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
