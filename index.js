@@ -18,6 +18,7 @@ module.exports = {
   ],
   rules: {
     'no-console': 'error',
+    'no-nested-ternary': 'error',
     'require-await': 'error'
   },
   settings: {
