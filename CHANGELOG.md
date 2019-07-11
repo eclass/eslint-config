@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/eclass/eslint-config/compare/v1.0.7...v1.1.0) (2019-07-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard to v13 ([179d229](https://github.com/eclass/eslint-config/commit/179d229))
+
+
+### Features
+
+* **rules:** add "no-nested-ternary" "error" ([832bc79](https://github.com/eclass/eslint-config/commit/832bc79))
+
 ## [1.0.7](https://github.com/eclass/eslint-config/compare/v1.0.6...v1.0.7) (2019-06-26)
 
 
