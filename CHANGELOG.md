@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/eclass/eslint-config/compare/v1.1.0...v1.1.1) (2019-07-24)
+
+
+### Bug Fixes
+
+* **engines:** set node to >=10.0.0 ([554c6fb](https://github.com/eclass/eslint-config/commit/554c6fb))
+
 # [1.1.0](https://github.com/eclass/eslint-config/compare/v1.0.7...v1.1.0) (2019-07-11)
 
 
