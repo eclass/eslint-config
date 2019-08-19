@@ -28,7 +28,7 @@
   "dependencies": {
     "eslint-config-jsdoc-strict": "^2.0.0",
     "eslint-config-prettier": "^6.0.0",
-    "eslint-config-standard": "^13.0.0"
+    "eslint-config-standard": "^14.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "8.1.0",
