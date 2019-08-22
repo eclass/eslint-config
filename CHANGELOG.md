@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/eclass/eslint-config/compare/v1.1.1...v1.1.2) (2019-08-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard to v14 ([de4f35e](https://github.com/eclass/eslint-config/commit/de4f35e))
+
 ## [1.1.1](https://github.com/eclass/eslint-config/compare/v1.1.0...v1.1.1) (2019-07-24)
 
 
