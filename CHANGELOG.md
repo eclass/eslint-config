@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/eclass/eslint-config/compare/v1.1.2...v1.1.3) (2019-10-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependencies ([6300634](https://github.com/eclass/eslint-config/commit/6300634e6af2ecedf5a4b807f82e9077ffa82ab8))
+
 ## [1.1.2](https://github.com/eclass/eslint-config/compare/v1.1.1...v1.1.2) (2019-08-22)
 
 
