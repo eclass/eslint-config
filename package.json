@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --fix",
-    "format": "prettier-standard '{src,test}/**/*.js'"
+    "format": "prettier-standard '*.js'"
   },
   "repository": {
     "type": "git",
@@ -73,13 +73,11 @@
     }
   },
   "lint-staged": {
-    "linters": {
-      "{src,test}/**/*.js": [
-        "eslint --fix",
-        "prettier-standard",
-        "git add"
-      ]
-    }
+    "*.js": [
+      "eslint --fix",
+      "prettier-standard",
+      "git add"
+    ]
   },
   "commitlint": {
     "extends": [
