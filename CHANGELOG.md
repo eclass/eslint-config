@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/eclass/eslint-config/compare/v1.2.0...v1.2.1) (2019-11-26)
+
+
+### Bug Fixes
+
+* **typescript:** set parser to @typescript-eslint/parser ([b9778ca](https://github.com/eclass/eslint-config/commit/b9778caece8675839835f9c191739322b1a646d7))
+
 # [1.2.0](https://github.com/eclass/eslint-config/compare/v1.1.3...v1.2.0) (2019-11-26)
 
 
