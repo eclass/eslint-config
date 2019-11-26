@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/eclass/eslint-config/compare/v1.1.3...v1.2.0) (2019-11-26)
+
+
+### Features
+
+* **eslint:** add config for typescript projects ([bdaaff0](https://github.com/eclass/eslint-config/commit/bdaaff0e0f11b7f60097cf326067d3dccb89b487))
+
 ## [1.1.3](https://github.com/eclass/eslint-config/compare/v1.1.2...v1.1.3) (2019-10-16)
 
 
