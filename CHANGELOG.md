@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/eclass/eslint-config/compare/v1.2.1...v1.3.0) (2019-11-27)
+
+
+### Features
+
+* **preset:** add preset for cra projects ([4a644c0](https://github.com/eclass/eslint-config/commit/4a644c0aac45ed2e3eb33dcbab7b0b12964ea55e))
+
 ## [1.2.1](https://github.com/eclass/eslint-config/compare/v1.2.0...v1.2.1) (2019-11-26)
 
 
