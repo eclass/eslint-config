@@ -4,7 +4,8 @@ module.exports = {
     jsdoc: {
       preferredTypes: {
         object: 'Object'
-      }
+      },
+      mode: 'typescript'
     }
   }
 }
