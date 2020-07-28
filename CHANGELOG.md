@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/eclass/eslint-config/compare/v1.3.1...v2.0.0) (2020-07-28)
+
+
+### Bug Fixes
+
+* **deps:** update eslint-config-prettier to v6.11.0 ([2fafbc5](https://github.com/eclass/eslint-config/commit/2fafbc549e62b8334d00dd9cfc1292a3ec3773d0))
+* **javascript:** set jsdoc mode in typescript ([3cf3d0a](https://github.com/eclass/eslint-config/commit/3cf3d0a294e6459e9925e064c2429b847c31a636))
+* **presets:** remove typescript and react presets ([98aea11](https://github.com/eclass/eslint-config/commit/98aea11cfe5c204b27be7df31ae121b96e3c661e))
+
+
+### BREAKING CHANGES
+
+* **presets:** Remove typescript and react presets.
+Now get those pressets in @eclass/eslint-config-typescript and
+@eclass/eslint-config-react.
+
 ## [1.3.1](https://github.com/eclass/eslint-config/compare/v1.3.0...v1.3.1) (2020-04-19)
 
 
