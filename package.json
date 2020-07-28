@@ -28,7 +28,7 @@
   "dependencies": {
     "babel-eslint": "^10.1.0",
     "eslint-config-jsdoc-strict": "^2.0.0",
-    "eslint-config-prettier": "^6.10.1",
+    "eslint-config-prettier": "^6.11.0",
     "eslint-config-react-app": "^5.2.1",
     "eslint-config-standard": "^14.1.1"
   },
