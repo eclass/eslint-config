@@ -21,7 +21,6 @@
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security)
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
-- [eslint-plugin-standard](https://www.npmjs.com/package/eslint-plugin-standard)
 
 ## Installation
 
