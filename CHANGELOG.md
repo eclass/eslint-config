@@ -1,3 +1,11 @@
+## [2.0.1](https://github.com/eclass/eslint-config/compare/v2.0.0...v2.0.1) (2021-02-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-standard to v16 ([9d4b95b](https://github.com/eclass/eslint-config/commit/9d4b95b8e204f97da38275bf4c2803caa69a3f9f))
+* **deps:** update eslint-config-standard to v16.0.2 ([09f5a9e](https://github.com/eclass/eslint-config/commit/09f5a9e5cb17b69d1b128689ae9505bd72bd6ad1))
+
 # [2.0.0](https://github.com/eclass/eslint-config/compare/v1.3.1...v2.0.0) (2020-07-28)
 
 
