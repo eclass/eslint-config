@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint . --fix",
-    "format": "prettier --write '*.js'"
+    "lint:check": "eslint .",
+    "format": "prettier --write '*.js'",
+    "format:check": "prettier --check '*.js'"
   },
   "repository": {
     "type": "git",
