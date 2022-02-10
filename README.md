@@ -16,7 +16,7 @@
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
 - [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
 - [eslint-plugin-jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
-- [eslint-plugin-node](https://www.npmjs.com/package/eslint-plugin-node)
+- [eslint-plugin-n](https://www.npmjs.com/package/eslint-plugin-n)
 - [eslint-plugin-promise](https://www.npmjs.com/package/eslint-plugin-promise)
 - [eslint-plugin-security](https://www.npmjs.com/package/eslint-plugin-security)
 - [eslint-plugin-sonarjs](https://www.npmjs.com/package/eslint-plugin-sonarjs)
@@ -28,7 +28,7 @@
 ### JS projects
 
 ```
-npm i -D eslint @eclass/eslint-config eslint-plugin-{array-func,eslint-comments,import,jsdoc,node,promise,security,sonarjs,standard}
+npm i -D eslint @eclass/eslint-config eslint-plugin-{array-func,eslint-comments,import,jsdoc,n,promise,security,sonarjs,standard}
 ```
 
 Then add the following configuration to your project's [`package.json`](https://docs.npmjs.com/files/package.json).
