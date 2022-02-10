@@ -1,6 +1,6 @@
 {
-  "*.js": [
-    "eslint --fix",
-    "prettier-standard"
-  ]
+  "*.js": ["eslint --fix", "prettier --write"],
+  "*.{json,md}": ["prettier --write"],
+  ".prettierrc": ["prettier --write"],
+  ".github/**/*": ["prettier --write"]
 }
