@@ -6,8 +6,8 @@
   "scripts": {
     "lint": "eslint . --fix",
     "lint:check": "eslint .",
-    "format": "prettier --write '*.{js,json,md}' '.prettierrc' '.github/**/*'",
-    "format:check": "prettier --check '*.{js,json,md}' '.prettierrc' '.github/**/*'",
+    "format": "prettier --write '*.{js,json,md}' '.prettierrc' '.{github,vscode}/**/*'",
+    "format:check": "prettier --check '*.{js,json,md}' '.prettierrc' '.{github,vscode}/**/*'",
     "prepare": "husky install"
   },
   "repository": {
