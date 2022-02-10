@@ -3,9 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@eclass/eslint-config.svg)](https://www.npmjs.com/package/@eclass/eslint-config)
 ![Node.js CI](https://github.com/eclass/eslint-config/workflows/Node.js%20CI/badge.svg)
 [![downloads](https://img.shields.io/npm/dt/@eclass/eslint-config.svg)](https://www.npmjs.com/package/@eclass/eslint-config)
-[![dependencies Status](https://david-dm.org/eclass/eslint-config/status.svg)](https://david-dm.org/eclass/eslint-config)
-[![devDependencies Status](https://david-dm.org/eclass/eslint-config/dev-status.svg)](https://david-dm.org/eclass/eslint-config?type=dev)
-[![peerDependencies Status](https://david-dm.org/eclass/eslint-config/peer-status.svg)](https://david-dm.org/eclass/eslint-config?type=peer)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@eclass/eslint-config)
 
 > This package provides eclass eslint shareable config.
 
