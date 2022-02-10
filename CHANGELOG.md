@@ -1,3 +1,17 @@
+# [3.0.0](https://github.com/eclass/eslint-config/compare/v2.0.1...v3.0.0) (2022-02-10)
+
+
+### Bug Fixes
+
+* **deps:** migrate to eslint-plugin-n ([4809c2d](https://github.com/eclass/eslint-config/commit/4809c2d907219feef5bcf927c69258e6e917bfd9))
+* **deps:** set engine ranges ([6df4423](https://github.com/eclass/eslint-config/commit/6df4423e5c440c4ec465e389763b1701e9111cb4))
+* **deps:** update eslint to v8 and configs/plugins ([dcfc365](https://github.com/eclass/eslint-config/commit/dcfc3655a2fda0091cf0dc2546e1f5dcdc98b13d))
+
+
+### BREAKING CHANGES
+
+* **deps:** Update eslint to v8
+
 ## [2.0.1](https://github.com/eclass/eslint-config/compare/v2.0.0...v2.0.1) (2021-02-17)
 
 ### Bug Fixes
