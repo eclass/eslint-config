@@ -11,7 +11,6 @@
 
 ## Plugins and Configuration included
 
-- [eslint-config-jsdoc-strict](https://www.npmjs.com/package/eslint-config-jsdoc)
 - [eslint-config-standard](https://www.npmjs.com/package/eslint-config-standard)
 - [eslint-plugin-array-func](https://www.npmjs.com/package/eslint-plugin-array-func)
 - [eslint-plugin-eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments)
