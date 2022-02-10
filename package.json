@@ -19,7 +19,7 @@
     "eclass"
   ],
   "engines": {
-    "node": ">=10.0.0"
+    "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
   },
   "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
   "license": "MIT",
