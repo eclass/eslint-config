@@ -1,6 +1,6 @@
 {
   "name": "@eclass/eslint-config",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "eslint shareable config",
   "main": "index.js",
   "scripts": {

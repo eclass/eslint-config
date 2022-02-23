@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/eclass/eslint-config/compare/v3.0.0...v3.0.1) (2022-02-23)
+
+
+### Bug Fixes
+
+* **deps:** fix peerDependencies ranges ([144d4a8](https://github.com/eclass/eslint-config/commit/144d4a864534c0eaf8a47f68e17bce23131a111f))
+
 # [3.0.0](https://github.com/eclass/eslint-config/compare/v2.0.1...v3.0.0) (2022-02-10)
 
 
