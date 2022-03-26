@@ -41,7 +41,7 @@
     "eslint-plugin-array-func": "3.1.7",
     "eslint-plugin-eslint-comments": "3.2.0",
     "eslint-plugin-import": "2.25.4",
-    "eslint-plugin-jsdoc": "38.0.6",
+    "eslint-plugin-jsdoc": "38.0.7",
     "eslint-plugin-n": "14.0.0",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-promise": "6.0.0",
