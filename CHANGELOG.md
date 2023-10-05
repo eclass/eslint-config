@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/eclass/eslint-config/compare/v3.0.1...v4.0.0) (2023-10-05)
+
+
+### Features
+
+* update all dependencies lastest ([b36fa10](https://github.com/eclass/eslint-config/commit/b36fa10f4ea6d48ed424b7a2d05079f12557676d))
+
+
+### BREAKING CHANGES
+
+* update update project to node18 with all dependencies
+
 ## [3.0.1](https://github.com/eclass/eslint-config/compare/v3.0.0...v3.0.1) (2022-02-23)
 
 
