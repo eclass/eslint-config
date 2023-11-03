@@ -50,7 +50,7 @@
     "husky": "8.0.3",
     "lint-staged": "14.0.1",
     "prettier": "3.0.3",
-    "semantic-release": "22.0.6"
+    "semantic-release": "22.0.7"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
